@@ -1,0 +1,24 @@
+*{
+  box-sizing: border-box;
+}
+
+html{
+  font-size: 50px;
+}
+body{
+  text-align: center;
+  background-color: #cd5e5e;
+  color: #680a0a;
+  font-family: 'Oxanium', cursive;
+  align-content: center;
+}
+#btn{
+  height:40px;
+  width:7%;
+  border-radius:10%;
+  background-color:  #680a0a;
+  color: white;
+  font-size: 20px;
+  border:2px solid yellow;
+
+}
